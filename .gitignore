@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+venv311/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Vector Database
+vector_db/
+
+# Downloaded audio
+downloads/
+downloades/
+*.wav
+*.mp3
+*.m4a
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
