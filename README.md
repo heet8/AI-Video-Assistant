@@ -402,8 +402,8 @@ git push origin feature-name
 
 **Heet Patel**
 
-- GitHub: https://github.com/heet88
-- LinkedIn: https://linkedin.com/in/heet247
+- GitHub: https://github.com/heet8
+- LinkedIn: https://linkedin.com/in/heet8
 
 ---
 
